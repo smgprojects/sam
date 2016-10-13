@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://smgprojects.github.io/sam/</loc>
-<lastmod>2016-10-12T21:24:35-00:00</lastmod>
+<lastmod>2016-10-12T21:35:33-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://smgprojects.github.io/sam/archives.html</loc>
-<lastmod>2016-10-12T21:24:35-00:00</lastmod>
+<lastmod>2016-10-12T21:35:33-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://smgprojects.github.io/sam/tags.html</loc>
-<lastmod>2016-10-12T21:24:35-00:00</lastmod>
+<lastmod>2016-10-12T21:35:33-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://smgprojects.github.io/sam/categories.html</loc>
-<lastmod>2016-10-12T21:24:35-00:00</lastmod>
+<lastmod>2016-10-12T21:35:33-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
